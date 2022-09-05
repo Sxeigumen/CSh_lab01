@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondEx", "SecondEx\Second
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondExTest", "SecondExTest\SecondExTest.csproj", "{C1B9B9A2-1A5E-4947-977D-9FA459B604E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirthEx", "ThirthEx\ThirthEx.csproj", "{42A08B62-6CF9-495B-84FB-9DE2C413962B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C1B9B9A2-1A5E-4947-977D-9FA459B604E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1B9B9A2-1A5E-4947-977D-9FA459B604E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1B9B9A2-1A5E-4947-977D-9FA459B604E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42A08B62-6CF9-495B-84FB-9DE2C413962B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A08B62-6CF9-495B-84FB-9DE2C413962B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A08B62-6CF9-495B-84FB-9DE2C413962B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A08B62-6CF9-495B-84FB-9DE2C413962B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
